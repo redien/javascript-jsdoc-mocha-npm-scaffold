@@ -1,12 +1,12 @@
 {
-  "name": "%PROJECT_NAME%",
+  "name": "PROJECT_NAME",
   "version": "1.0.0",
-  "description": "%PROJECT_SHORT_DESCRIPTION%",
+  "description": "PROJECT_SHORT_DESCRIPTION",
   "scripts": {
     "test": "mocha --require should \"**/*.unit.js\""
   },
-  "author": "%PROJECT_AUTHOR%",
-  "license": "%PROJECT_COPY_LICENSE%",
+  "author": "PROJECT_AUTHOR",
+  "license": "PROJECT_COPY_LICENSE",
   "devDependencies": {
     "mocha": "2.3.4",
     "should": "8.0.0"

@@ -1,7 +1,7 @@
 
 # README
 
-%PROJECT_NAME% - %PROJECT_SHORT_DESCRIPTION%
+PROJECT_NAME - PROJECT_SHORT_DESCRIPTION
 
 ## How to use
 
@@ -12,9 +12,9 @@ can be saved in any subfolder; The tests are then run with `npm test`.
 
 ## Copying
 
-%PROJECT_NAME% - %PROJECT_SHORT_DESCRIPTION%
+PROJECT_NAME - PROJECT_SHORT_DESCRIPTION
 
-Written in %PROJECT_COPY_YEAR% by %PROJECT_AUTHOR% %PROJECT_CONTACT_EMAIL%
+Written in PROJECT_COPY_YEAR by PROJECT_AUTHOR PROJECT_CONTACT_EMAIL
 
 To the extent possible under law, the author(s) have dedicated all copyright
 and related and neighboring rights to this software to the public domain worldwide.
