@@ -10,6 +10,10 @@
 // You should have received a copy of the CC0 Public Domain Dedication along with this software.
 // If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 
+/**
+ * Returns the value given to it.
+ * @param {any} x - The value to return.
+ */
 module.exports.identity = function (x) {
     return x;
 };
