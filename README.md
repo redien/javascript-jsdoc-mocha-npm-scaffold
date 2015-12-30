@@ -10,6 +10,8 @@ Dependencies are first installed with `npm install`.
 Unit tests are written in files named in the pattern `MODULE_NAME.unit.js` and
 can be saved in any subfolder; The tests are then run with `npm test`.
 
+Documentation can be generated using jsdoc with `npm run-script documentation`
+
 ## Copying
 
 PROJECT_NAME - PROJECT_SHORT_DESCRIPTION
